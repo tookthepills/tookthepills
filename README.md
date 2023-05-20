@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20there%20👋&fontSize=90)
 
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🎓 University Student
+- 🌱 Learning Web-backend
+- 🚲 Bike my hobby
